@@ -1,0 +1,42 @@
+[
+  {
+    "fileName": "promise-all.js",
+    "title": "JavaScript: Promise.all()",
+    "type": "js"
+  },
+  {
+    "fileName": "promise-allsettled.js",
+    "title": "JavaScript: Promise.allSettled()",
+    "type": "js"
+  },
+  {
+    "fileName": "promise-catch.js",
+    "title": "JavaScript: Promise.catch()",
+    "type": "js"
+  },
+  {
+    "fileName": "promise-constructor.js",
+    "title": "JavaScript: Promise Constructor",
+    "type": "js"
+  },
+  {
+    "fileName": "promise-race.js",
+    "title": "JavaScript: Promise.race()",
+    "type": "js"
+  },
+  {
+    "fileName": "promise-reject.js",
+    "title": "JavaScript: Promise.reject()",
+    "type": "js"
+  },
+  {
+    "fileName": "promise-resolve.js",
+    "title": "JavaScript: Promise.resolve()",
+    "type": "js"
+  },
+  {
+    "fileName": "promise-then.js",
+    "title": "JavaScript: Promise.then()",
+    "type": "js"
+  }
+]

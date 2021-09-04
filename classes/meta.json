@@ -1,0 +1,17 @@
+[
+  {
+    "fileName": "classes-constructor.js",
+    "title": "JavaScript: Classes Constructor",
+    "type": "js"
+  },
+  {
+    "fileName": "classes-extends.js",
+    "title": "JavaScript: Classes Extends",
+    "type": "js"
+  },
+  {
+    "fileName": "classes-static.js",
+    "title": "JavaScript: Classes Static",
+    "type": "js"
+  }
+]

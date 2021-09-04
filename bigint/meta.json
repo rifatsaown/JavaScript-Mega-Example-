@@ -1,0 +1,27 @@
+[
+  {
+    "fileName": "bigint-asintn.js",
+    "title": "JavaScript: BigInt.asIntN()",
+    "type": "js"
+  },
+  {
+    "fileName": "bigint-asuintn.js",
+    "title": "JavaScript: BigInt.asUintN()",
+    "type": "js"
+  },
+  {
+    "fileName": "bigint-tolocalestring.js",
+    "title": "JavaScript: BigInt.toLocaleString()",
+    "type": "js"
+  },
+  {
+    "fileName": "bigint-tostring.js",
+    "title": "JavaScript: BigInt.toString()",
+    "type": "js"
+  },
+  {
+    "fileName": "bigint-valueof.js",
+    "title": "JavaScript: BigInt.valueOf()",
+    "type": "js"
+  }
+]
